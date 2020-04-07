@@ -1,93 +1,64 @@
-{ 
-    "panda": [
+{
+    "data": [
         {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202003_1/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202003_1/",
-        "start_date": "202002180000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#B4DFF9",
-        "bottom_nav_bkg_color_selected": "#69BFF3",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202003_2/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202003_2/",
-        "start_date": "202002200000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#FFE0FF",
-        "bottom_nav_bkg_color_selected": "#FFC1FF",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202004_1/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202004_1/",
-        "start_date": "202003170000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#FFF8A7",
-        "bottom_nav_bkg_color_selected": "#F5C245",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202004_2/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202004_2/",
-        "start_date": "202003190000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#B7F29D",
-        "bottom_nav_bkg_color_selected": "#A1D68B",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202005_1/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202005_1/",
-        "start_date": "202003210000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#FFD9DE",
-        "bottom_nav_bkg_color_selected": "#FFB6BD",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202005_2/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202005_2/",
-        "start_date": "202003230000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#C7E296",
-        "bottom_nav_bkg_color_selected": "#A1DA4A",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202006_1/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202006_1/",
-        "start_date": "202004050000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#D6B0D9",
-        "bottom_nav_bkg_color_selected": "#AD61B3",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202006_2/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202006_2/",
-        "start_date": "202004080000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#FAF181",
-        "bottom_nav_bkg_color_selected": "#F5E303",
-        "bottom_nav_text_color": "#808080"
-        }
-        ,
-        {
-        "panda_background_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202006_3/",
-        "panda_URL":"https://pointcard.rakuten.co.jp/sp/img/app/theme/202006_3/",
-        "start_date": "202004100000",
-        "text_background_transparency": "15%",
-        "bottom_nav_bkg_color_normal": "#B9C6DF",
-        "bottom_nav_bkg_color_selected": "#738DBF",
-        "bottom_nav_text_color": "#808080"
+            "title": "1commonタイトルssssss333",
+            "description": "一部の加盟店店舗は地図に表示されません。ご了承ください。",
+            "start_datetime": "2019-10-01T23:59:00+09:00",
+            "end_datetime": "2020-09-16T23:59:00+09:00",
+            "type": "common",
+            "link": "https://rpointcard.faq.rakuten.ne.jp/app/answers/detail/a_id/25743",
+            "image": "https://point.rakuten.co.jp/rpointcard/img/banner/campaign/all/app/bnr_120x120.png",
+            "sc_code": "info-01"
+        },
+{
+            "title": "1default",
+            "description": "一部の加盟店店舗は地図に表示されません。ご了承ください。",
+            "start_datetime": "2019-10-01T23:59:00+09:00",
+            "end_datetime": "2020-09-16T23:59:00+09:00",
+            "type": "default",
+            "link": "https://rpointcard.faq.rakuten.ne.jp/app/answers/detail/a_id/25743",
+            "image": "https://point.rakuten.co.jp/rpointcard/img/banner/campaign/all/app/bnr_120x120.png",
+            "sc_code": "info-04"
+        },
+{
+            "title": "2出品手数料無料のフリマアプリ「ラクマ」1aaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbcccccccccccccddddddddddddddddddd",
+            "description": "フリーマーケットのように自由に物を売れる！買える！",
+            "start_datetime": "2019-10-01T23:59:00+09:00",
+            "end_datetime": "2020-09-16T23:59:00+09:00",
+            "type": "common",
+            "link": "https://rpointcard.faq.rakuten.ne.jp/app/answers/detail/a_id/25743",
+            "image": "https://point.rakuten.co.jp/rpointcard/img/banner/group/rakuma/all/20141126/bnr_160x160.png",
+            "sc_code": "info-02"
+        },
+{
+            "title": "2default",
+            "description": "一部の加盟店店舗は地図に表示されません。ご了承ください。",
+            "start_datetime": "2019-10-01T23:59:00+09:00",
+            "end_datetime": "2020-09-16T23:59:00+09:00",
+            "type": "default",
+            "link": "https://rpointcard.faq.rakuten.ne.jp/app/answers/detail/a_id/25743",
+            "image": "https://point.rakuten.co.jp/rpointcard/img/banner/campaign/all/app/bnr_120x120.png",
+            "sc_code": "info-04"
+        },
+{
+            "title": "3common",
+            "description": "フリーマーケットのように自由に物を売れる！買える！",
+            "start_datetime": "2019-10-01T23:59:00+09:00",
+            "end_datetime": "2020-09-16T23:59:00+09:00",
+            "type": "common",
+            "link": "https://rpointcard.faq.rakuten.ne.jp/app/answers/detail/a_id/25743",
+            "image": "https://point.rakuten.co.jp/rpointcard/img/banner/group/rakuma/all/20141126/bnr_160x160.png",
+            "sc_code": "info-02"
+        },
+{
+            "title": "3店舗は地図1",
+            "description": "一部の加盟店店舗は地図に表示されません。ご了承ください。",
+            "start_datetime": "2019-10-01T23:59:00+09:00",
+            "end_datetime": "2020-09-16T23:59:00+09:00",
+            "type": "default",
+            "link": "https://rpointcard.faq.rakuten.ne.jp/app/answers/detail/a_id/25743",
+            "image": "https://point.rakuten.co.jp/rpointcard/img/banner/campaign/all/app/bnr_120x120.png",
+            "sc_code": "info-03"
         }
     ]
 }
