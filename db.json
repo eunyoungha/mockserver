@@ -144,18 +144,10 @@
                             "fami-pay-app": ["A_valid_img","B_Inv_img","C_valid_img","D_Inv_img","A_valid_img"," "]
               },
 "maintenance": {
-
                             "text": "テスト4/18～4/20の期間、AM2:00～AM3:00の時間帯にメンテナンスのため遅延や寸断等が発生する場合があります",
-
                             "start_datetime": "2019-12-18T00:00:00+09:00",
-
                            "end_datetime": "2020-12-22T23:59:59+09:00",
-                            
                             "link": "https://pointcard.rakuten.co.jp/"
-
-                            
-              
               }
-
 }
 }
