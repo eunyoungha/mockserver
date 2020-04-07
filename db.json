@@ -1,5 +1,6 @@
 {
-    "data": [
+    "oshirase" : {
+        "data": [
         {
             "title": "1commonタイトルssssss333",
             "description": "一部の加盟店店舗は地図に表示されません。ご了承ください。",
@@ -61,4 +62,5 @@
             "sc_code": "info-03"
         }
     ]
+    }
 }
